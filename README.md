@@ -13,13 +13,13 @@ npm i to install the packages
 and npm run start:dev 
 
 When I open the text editor, I can add content to the database:
-![Adding Text](images/Addingtext.png)
+![Adding Text](Addingtext.png)
 
 Then I can find the content in the text editor and click install:
-![Click Install](images/install.png)
+![Click Install](install.png)
 
 This would save it to the database. Then I can find the content in the text editor:
-![Content Saved](images/saves.png)
+![Content Saved](saves.png)
 
 
 ## Deployed Application
