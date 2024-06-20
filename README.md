@@ -12,16 +12,14 @@ To run this program all you need to do through terminal is
 npm i to install the packages 
 and npm run start:dev 
 
-## Screenshots
-When I open the text editor I can add enter content to the database
-Adding text.png
+When I open the text editor, I can add content to the database:
+![Adding Text](images/Addingtext.png)
 
-Then I can find the content in the text editor and click install
-Install.png
+Then I can find the content in the text editor and click install:
+![Click Install](images/install.png)
 
-Then this would save it to the database
-Then I can find the content in the text editor 
-saves .png
+This would save it to the database. Then I can find the content in the text editor:
+![Content Saved](images/saves.png)
 
 
 ## Deployed Application
