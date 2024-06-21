@@ -12,14 +12,19 @@ To run this program all you need to do through terminal is
 npm i to install the packages 
 and npm run start:dev 
 
-When I open the text editor, I can add content to the database:
-![Adding Text](Addingtext.png)
+## Screenshots
 
-Then I can find the content in the text editor and click install:
-![Click Install](install.png)
+When I open the text editor I can add enter content to the database
+ ![Alt text](PWA Text Editor/Assets/Adding text.png)
 
-This would save it to the database. Then I can find the content in the text editor:
-![Content Saved](saves.png)
+Then I can find the content in the text editor and click install
+![Alt text](PWA Text Editor/Assets/Install.png)
+
+
+Then this would save it to the database
+Then I can find the content in the text editor 
+
+![Alt text](PWA Text Editor/Assets/Install.png)
 
 
 ## Deployed Application
