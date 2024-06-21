@@ -14,7 +14,7 @@ and npm run start:dev
 
 ## Screenshots
 When I open the text editor I can add enter content to the database
- ![Alt text](PWA Text Editor/Assets/Adding text.png )
+ ![Alt text](PWA Text Editor/Assets/Adding text.png)
 
 Then I can find the content in the text editor and click install
 ![Alt text](PWA Text Editor/Assets/Install.png)
@@ -23,7 +23,7 @@ Then I can find the content in the text editor and click install
 Then this would save it to the database
 Then I can find the content in the text editor 
 
-![Alt text](PWA Text Editor/Assets/Install.png )
+![Alt text](PWA Text Editor/Assets/Install.png)
 
 
 ## Deployed Application
