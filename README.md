@@ -13,6 +13,7 @@ npm i to install the packages
 and npm run start:dev 
 
 ## Screenshots
+
 When I open the text editor I can add enter content to the database
  ![Alt text](PWA Text Editor/Assets/Adding text.png)
 
