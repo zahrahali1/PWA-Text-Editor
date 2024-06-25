@@ -27,3 +27,4 @@ Assets/Saves.png)
 
 
 ## Deployed Application
+https://pwa-text-editor-2-udn2.onrender.com 
